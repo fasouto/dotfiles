@@ -1,2 +1,3 @@
 h1. dotfiles
+
 Just my bash configuration files: .inputrc .bash_profile etc...
