@@ -8,3 +8,6 @@ stty erase ^?
 export HISTSIZE=10000
 #ignore repeated commands
 export HISTCONTROL=erasedups
+
+# Virtualenvwrapper
+export WORKON_HOME=~/virtualenvs
