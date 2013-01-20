@@ -11,3 +11,4 @@ export HISTCONTROL=erasedups
 
 # Virtualenvwrapper
 export WORKON_HOME=~/virtualenvs
+source /usr/local/bin/virtualenvwrapper.sh
