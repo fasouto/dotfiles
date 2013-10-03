@@ -45,3 +45,5 @@ alias cp='cp -i'
 alias mv='mv -i'
 alias rm='rm -i'
 
+# Open a file in quicklook (OSX)
+alias ql="qlmanage -p 2>/dev/null "
