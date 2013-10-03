@@ -39,3 +39,9 @@ alias cleanup="find . -type f -name '*.DS_Store' -ls -delete"
 
 # File size
 alias fs="stat -f \"%z bytes\""
+
+# Prevent errors asking for confirmation
+alias cp='cp -i'
+alias mv='mv -i'
+alias rm='rm -i'
+
