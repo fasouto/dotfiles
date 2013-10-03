@@ -51,3 +51,6 @@ alias rm='rm -i'
 
 # Open a file in quicklook (OSX)
 alias ql="qlmanage -p 2>/dev/null "
+
+# URL-encode strings
+alias urlencode='python -c "import sys, urllib as ul; print ul.quote_plus(sys.argv[1]);"'
