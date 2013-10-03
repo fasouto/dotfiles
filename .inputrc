@@ -1,8 +1,17 @@
+# Autocomplete ignoring case
 set completion-ignore-case on
+
+# Replace a common prefix longer than n chars with "..."
 set completion-prefix-display-length 2
+
+# Cycle through the available completions
 Control-j: menu-complete
 Control-k: menu-complete-backward
+
+# List all matches in case multiple possible completions are possible
 set show-all-if-ambiguous on
 set show-all-if-unmodified on
+
+# Vim rules
 set editing-mode vi
 set keymap vi
