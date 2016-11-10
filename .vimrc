@@ -18,7 +18,3 @@ set smartcase
 
 " colors
 colorscheme wombat256
-
-" pathogen
-call pathogen#infect()
-call pathogen#infect('colors')
