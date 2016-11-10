@@ -1,8 +1,0 @@
-.DS_Store
-.svn
-*.log
-*.py[co]
-*.egg
-*.egg-info
-local_settings.py
-Thumbs.db
